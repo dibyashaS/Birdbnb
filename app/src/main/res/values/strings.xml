@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birdbnb</string>
+    <string name="birdhouse_description">Luxurious birdhouse in the heart of downtown Seattle</string>
+    <string name="reviews">Hosted by Mr.Sparrow•500 reviews•4.5/5 stars</string>
+</resources>
